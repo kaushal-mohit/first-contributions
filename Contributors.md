@@ -241,7 +241,6 @@ nowy wpis
 - [Lian](https://github.com/liulian1004)
   vivek
 - Julien
-- [Farhad](https://github.com/farhad2306)
 - [Ashish Tiwari](https://github.com/Ashish-100-tiwari)
 - [El Arif Amine](https://github.com/AmineArif1)
 - [forno] (https://github.com/fornclakess)
@@ -2344,8 +2343,8 @@ nowy wpis
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
 - [Shagun Rathore](https://github.com/itshagunrathore)
 - [Shaikh Minhaj (minhaj-313)](https://github.com/minhaj-313)
-- [Rahul Bisht] (https://github.com/RahulBeast195)
-- [Hrishikesh Mahalle](https://github.com/HrishikeshMahalle)
+- [Rahul Bisht (https://github.com/RahulBeast195)
 - [i_Akshay (https://github.com/Akshay1018)
+- [Mohit](https://github.com/kaushal-mohit)
 
 <!-- prettier-ignore-end -->
