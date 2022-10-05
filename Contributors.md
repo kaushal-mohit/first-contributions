@@ -490,6 +490,7 @@ nowy wpis
 - [Aman Setia](https://github.com/Amanse)
 - [JATIN SAINI](https://github.com/yunocrown)
 - [Melissa Sorrells](https://github.com/melsorrells23)
+- Saad Khan
 - [PRIYA KUMARI](https://github.com/priya03050)
 - [Hitarth Raval](https://linktr.ee/hitarthraval)
 - [UDBHAV SOMANI](https://github.com/udbhavsomani)
@@ -1926,7 +1927,6 @@ nowy wpis
 - [Kazim Sayed](https://github.com/kazimsayed954)
 - [Aniket Pal](https://github.com/aniiketpal)
 - [Ankit Verma](https://github.com/ankit-verma-209171)
-- [Siddak Bagga](https://github.com/siddakbagga13)
 - [Harsh Singh](https://github.com/lives-in-virgosupercluster)
 - [Abhay Dixit](https://github.com/AbhayD11)
 - [Ved Prakash Bhaskar](https://github.com/iamvpbhaskar)
@@ -2339,7 +2339,6 @@ nowy wpis
 - [ofekatr] (https://github.com/ofekatr)
 - [Arjun] (https://github.com/Arjundotadex)
 - [i-curve](https://github.com/i-curve)
-- [Ankit](https://github.com/ankitiiitian)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Jonathan Stallard](https://github.com/stallardjw)
 - [Jaideep Ahluwalia](https://github.com/Jaideep12)
@@ -2348,5 +2347,6 @@ nowy wpis
 - [Rahul Bisht] (https://github.com/RahulBeast195)
 - [Hrishikesh Mahalle](https://github.com/HrishikeshMahalle)
 - [i_Akshay (https://github.com/Akshay1018)
+- [Mohit] (https://github.com/kaushal-mohit)
 
 <!-- prettier-ignore-end -->
